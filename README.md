@@ -10,3 +10,12 @@ Example of topics:
 - accessing the data or server
 - deploy a software on UNF servers
 - ...
+
+## unf-support mailbox
+
+This email address includes the following people:
+- Basile
+- Arnaud
+- Émilie
+- Carollyn
+- André
